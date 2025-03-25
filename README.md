@@ -24,6 +24,11 @@
 # 📊 GitHub Stats:
 ![Image Profile](https://github-readme-stats.vercel.app/api/?username=DamianCaorsi\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
+# 📱 Contact:
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+) <br>
+# Caordamianjob@gmail.com
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
