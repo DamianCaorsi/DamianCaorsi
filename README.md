@@ -8,8 +8,8 @@
 ) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 )
 
-# 💡 Prototyping Platforms:![Ard](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white
-)
+# 💡 Prototyping Platforms:
+![Image](https://github.com/user-attachments/assets/fa4ab293-4160-47c9-a6b7-121ea93c0cc6)
 
 # 👩‍💻 IDE:
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
