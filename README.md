@@ -19,6 +19,4 @@
 
 ------
 
-Credit: [Aneal07](https://github.com/Aneal07)
-
-Last Edited on: 18/11/2023
+Last edited on 2025/25/03 :) 
