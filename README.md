@@ -23,7 +23,7 @@
 
 # 📊 GitHub Stats:
 ![Image Profile]([https://github.com/user-attachments/assets/36750bfe-8551-4f17-b5e3-7054f76c292c](https://github-readme-stats.vercel.app/api?username={DamianCaorsi}&theme=blue-green
-))
+)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
