@@ -9,8 +9,7 @@
 )
  
 # 📊 GitHub Stats:
-![Image Profile](https://github.com/user-attachments/assets/36750bfe-8551-4f17-b5e3-7054f76c292c)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Image Profile](https://github.com/user-attachments/assets/36750bfe-8551-4f17-b5e3-7054f76c292c)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
