@@ -8,8 +8,7 @@
 ) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 )
 
-# 💡 Prototyping Platforms:<br> ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
-) ![Microbit](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white
+# 💡 Prototyping Platforms:![Ard](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white
 )
 
 # 👩‍💻 IDE:
