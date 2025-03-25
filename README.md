@@ -33,9 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianCaorsi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📱 Contact:
-<a href="mailto:caordamianjob@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
-#  Caordamianjob@gmail.com
-
+<a href="mailto:caordamianjob@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-caordamianjob@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
