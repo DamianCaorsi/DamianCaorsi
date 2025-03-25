@@ -8,6 +8,11 @@
 ) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 )
 
+# 💻 Terminal:
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+)![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
+)
+
 # 💡 Prototyping Platforms:
 ![Microbit](https://github.com/user-attachments/assets/fa4ab293-4160-47c9-a6b7-121ea93c0cc6)![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
 )
@@ -17,7 +22,8 @@
 )
 
 # 📊 GitHub Stats:
-![Image Profile](https://github.com/user-attachments/assets/36750bfe-8551-4f17-b5e3-7054f76c292c)
+![Image Profile]([https://github.com/user-attachments/assets/36750bfe-8551-4f17-b5e3-7054f76c292c](https://github-readme-stats.vercel.app/api?username={DamianCaorsi}&theme=blue-green
+))
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
