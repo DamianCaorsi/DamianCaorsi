@@ -9,7 +9,7 @@
 )
  
 # 📊 GitHub Stats:
-![Image of profile](https://github.com/user-attachments/assets/e9488866-4fcc-4d59-b12c-72dfd02011ca)<br/>
+![Image Profile](https://github.com/user-attachments/assets/36750bfe-8551-4f17-b5e3-7054f76c292c)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
